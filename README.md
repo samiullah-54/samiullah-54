@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a Software Engineering undergraduate at **Air University** (2022–2026) passionate about building high-quality mobile applications and web systems. My current focus is on creating seamless user experiences, designing robust architectures, and ensuring software quality. 
+I’m a Software Engineering graduate who enjoys solving practical problems through technology. I have hands on experience with Flutter, Dart, Node.js, and modern software development practices, with a strong interest in software quality, testing, and reliable system design. I focus on understanding problems, building practical solutions, and making sure software is functional, maintainable, and reliable. 
 
 - 💼 Previously interned at **Multan Electric Power Company (MEPCO)**, working with enterprise data workflows and smart meter infrastructure.
 - 🎓 Certifications: Agile Project Management, Effective Leadership, and Cybersecurity Awareness (HP LIFE).
