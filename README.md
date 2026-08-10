@@ -51,10 +51,17 @@ I am a Software Engineering student and developer passionate about building high
 
 | Project | Description |
 |---------|-------------|
-| **Repairo** | An AI-powered diagnostic and scheduling app for smartphone repair services. Built with a three-tier architecture. |
+| **Repairo** | An AI-powered diagnostic and scheduling app for smartphone repair services. Built with a three-tier architecture, utilizing RAG and guardrails for AI diagnostics. |
 | **BankPick** | A fintech application front-end built using the MVVM pattern in Flutter. |
-| **KhokhaLabs** | A custom software startup brand. _Desi Roots. Digital Future._ |
+| **Chef AI** | A full-stack AI-powered culinary assistant application. |
 | **Pool Paisa** | A conceptual household expense tracking platform. |
+| **Travel Expense Tracker** | A mobile application built to seamlessly track and manage travel expenses. |
+| **AI Education** | An educational platform enhanced with AI capabilities for smarter learning. |
+| **SmartSchool** | A comprehensive digital school management system. |
+| **E-Commerce UI** | A complete, responsive e-commerce user interface built with Flutter. |
+| **Easy Drawing** | A creative, interactive drawing and sketching application. |
+| **Echo / Echo Native** | A seamless communication and social networking application project. |
+| **Stylish** | A modern and stylish application interface design project. |
 
 ---
 
